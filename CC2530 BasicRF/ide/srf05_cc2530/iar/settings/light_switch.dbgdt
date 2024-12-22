@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log><ColumnWidth0>19</ColumnWidth0><ColumnWidth1>1222</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>1035</ColumnWidth1>
+        <ColumnWidth2>276</ColumnWidth2>
+        <ColumnWidth3>69</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>228</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+      <MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow><InstrProfShow>0</InstrProfShow></Disassembly>
+    </Static>
+    <Windows>
+      
+      
+      
+    <Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-11918-23766</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-11395-23775</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3><Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-22666-23769</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>light_switch</ExpandedNode><ExpandedNode>light_switch/Output</ExpandedNode><ExpandedNode>light_switch/application</ExpandedNode><ExpandedNode>light_switch/basic rf</ExpandedNode><ExpandedNode>light_switch/hal</ExpandedNode><ExpandedNode>light_switch/hal/common</ExpandedNode><ExpandedNode>light_switch/hal/interface</ExpandedNode><ExpandedNode>light_switch/hal/rf</ExpandedNode><ExpandedNode>light_switch/hal/srf05_soc</ExpandedNode><ExpandedNode>light_switch/utilities</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd4><Wnd5>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-646-23772</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd5></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane/><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-05852c00><key>iaridepm.enu1</key></Toolbar-05852c00></Sizes></Row0><Row1><Sizes><Toolbar-13560578><key>debuggergui.enu1</key></Toolbar-13560578></Sizes></Row1></Top><Left><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>518</Bottom><Right>319</Right><x>-2</x><y>-2</y><xscreen>214</xscreen><yscreen>188</yscreen><sizeHorzCX>139323</sizeHorzCX><sizeHorzCY>243208</sizeHorzCY><sizeVertCX>208984</sizeVertCX><sizeVertCY>672704</sizeVertCY></Rect></Wnd4></Sizes></Row0></Left><Right><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>518</Bottom><Right>212</Right><x>-2</x><y>-2</y><xscreen>214</xscreen><yscreen>188</yscreen><sizeHorzCX>139323</sizeHorzCX><sizeHorzCY>243208</sizeHorzCY><sizeVertCX>139323</sizeVertCX><sizeVertCY>672704</sizeVertCY></Rect></Wnd5></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>186</Bottom><Right>1538</Right><x>-2</x><y>-2</y><xscreen>1540</xscreen><yscreen>188</yscreen><sizeHorzCX>1002604</sizeHorzCX><sizeHorzCY>243208</sizeHorzCY><sizeVertCX>139323</sizeVertCX><sizeVertCY>243208</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
